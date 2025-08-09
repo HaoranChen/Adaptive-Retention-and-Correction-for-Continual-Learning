@@ -22,6 +22,12 @@
     ```bash
     python main.py --config=./exps/[MODEL NAME].json
     ```
+
+### Implementation details
+
+1. We primarily modified the **_eval_cnn** function in the files within the models directory compared to the PILOT version.
+2. Compared to the original conference version, we have re-implemented the framework. In the previous version, the inference process was fixed to a batch size of 1. In the new implementation, we introduce the arc_batch_size hyperparameter, which allows the inference batch size to be adjusted. Empirically, we observe that increasing this parameter tends to reduce overall accuracy while improving inference speed.
+
 ## Acknowledgments
 
 We thank the [PILOT](https://github.com/LAMDA-CL/LAMDA-PILOT) repo for providing helpful codebase in our work.
