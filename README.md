@@ -1,9 +1,6 @@
-# Repository for ICLR 2025 paper Adaptive Retention & Correction: Test-Time Training for Continual Learning
+# ICLR2025 - Adaptive Retention & Correction: Test-Time Training for Continual Learning
 
- :bookmark_tabs:[`Paper`](https://arxiv.org/abs/2405.14318) 
- :black_nib:[`BibTex`](#black_nib-citation) 
-
-**Authors**: [Haoran Chen](https://haoranchen.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Zuxuan Wu](https://zxwu.azurewebsites.net/),  [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en)
+ :bookmark_tabs:[`Paper Link`](https://arxiv.org/abs/2405.14318) **Authors**: [Haoran Chen](https://haoranchen.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Zuxuan Wu](https://zxwu.azurewebsites.net/),  [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en)
 
 ## How to use
 
@@ -33,7 +30,7 @@ We thank the [PILOT](https://github.com/LAMDA-CL/LAMDA-PILOT) repo for providing
 Feel free to contact us if you have any questions or suggestions 
 Email: chenhran21@m.fudan.edu.cn
 
-## :black_nib: Citation
+## Citation
 If you use our code in this repo or find our work helpful, please consider giving a citation:
 
 ```
