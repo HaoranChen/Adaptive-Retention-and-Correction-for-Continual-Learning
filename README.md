@@ -1,4 +1,4 @@
-# ICLR2025 - Adaptive Retention & Correction: Test-Time Training for Continual Learning
+# ICLR 2025 - Adaptive Retention & Correction: Test-Time Training for Continual Learning
 
  :bookmark_tabs:[`Paper Link`](https://arxiv.org/abs/2405.14318) **Authors**: [Haoran Chen](https://haoranchen.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Zuxuan Wu](https://zxwu.azurewebsites.net/),  [Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en)
 
