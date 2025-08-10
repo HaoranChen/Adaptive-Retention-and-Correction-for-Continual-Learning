@@ -27,7 +27,7 @@
 
 1. We primarily modified the **_eval_cnn** function in the files within the models directory compared to the PILOT version.
 2. Compared to the original conference version, we have re-implemented the framework. In the previous version, the inference process was fixed to a batch size of 1. In the new implementation, we introduce the *arc_batch_size* hyperparameter, which allows the inference batch size to be adjusted. Empirically, we observe that increasing this parameter tends to reduce overall accuracy while improving inference speed.
-3. The current version achieves substantially faster inference while maintaining comparable, and in some cases better, performance compared to the conference version.
+3. The current version achieves substantially faster inference while maintaining comparable, and in some cases better, performance compared to the original version.
 
 ## Acknowledgments
 
