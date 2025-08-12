@@ -44,7 +44,7 @@ If you use our code in this repo or find our work helpful, please consider givin
 @inproceedings{chenarc,
   title={Adaptive Retention \& Correction: Test-Time Training for Continual Learning},
   author={Chen, Haoran and Goldblum, Micah and Wu, Zuxuan and Jiang, Yu-Gang},
-  booktitle={ICLR},
+  booktitle={ICLR 2025},
   year={2025}
 }
 ```
